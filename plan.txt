@@ -1,0 +1,5 @@
+I need to make the AI and make it generate the zodiacs.
+The zodiacs need to use the position of the planets.
+I can try using AI to generate the principals of the horoscopes.
+Finally, I need to get an AI to translate it into Latvian.
+Checking for gramatical mistakes (optional).
