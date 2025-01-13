@@ -5,8 +5,7 @@ import datetime
 
 load_dotenv()
 
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY")) 
 def response_from_openai(horoscope, date):
     completion = client.chat.completions.create(
         model="gpt-4o-mini",
@@ -20,6 +19,8 @@ def response_from_openai(horoscope, date):
                    """}],
     )
     return completion.choices[0].message.content
+
+
 
 horoscope = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
 

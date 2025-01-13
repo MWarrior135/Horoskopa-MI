@@ -1,0 +1,62 @@
+{
+    "Aries": {
+        "element": "Fire",
+        "modality": "Cardinal",
+        "personality": "Energetic, Bold, Confident, Competitive, Independent, Impulsive, Leadership qualities, Adventurous."
+    },
+    "Taurus": {
+        "element": "Earth",
+        "modality": "Fixed",
+        "personality": "Reliable, Practical, Patient, Persistent, Sensual, Stubborn, Loyal, Determined."
+    },
+    "Gemini": {
+        "element": "Air",
+        "modality": "Mutable",
+        "personality": "Curious, Communicative, Adaptable, Quick-witted, Playful, Restless, Inconsistent, Social."
+    },
+    "Cancer": {
+        "element": "Water",
+        "modality": "Cardinal",
+        "personality": "Nurturing, Emotional, Protective, Intuitive, Compassionate, Moody, Sentimental, Family-oriented."
+    },
+    "Leo": {
+        "element": "Fire",
+        "modality": "Fixed",
+        "personality": "Confident, Charismatic, Creative, Dramatic, Generous, Warm-hearted, Ambitious, Proud."
+    },
+    "Virgo": {
+        "element": "Earth",
+        "modality": "Mutable",
+        "personality": "Analytical, Detail-oriented, Practical, Methodical, Helpful, Critical, Perfectionist, Organized."
+    },
+    "Libra": {
+        "element": "Air",
+        "modality": "Cardinal",
+        "personality": "Diplomatic, Charming, Fair-minded, Social, Indecisive, Idealistic, Cooperative, Romantic."
+    },
+    "Scorpio": {
+        "element": "Water",
+        "modality": "Fixed",
+        "personality": "Intense, Passionate, Loyal, Resourceful, Secretive, Determined, Strong-willed, Mysterious."
+    },
+    "Sagittarius": {
+        "element": "Fire",
+        "modality": "Mutable",
+        "personality": "Adventurous, Optimistic, Free-spirited, Philosophical, Blunt, Independent, Honest, Energetic."
+    },
+    "Capricorn": {
+        "element": "Earth",
+        "modality": "Cardinal",
+        "personality": "Ambitious, Disciplined, Practical, Responsible, Reserved, Patient, Goal-oriented, Persistent."
+    },
+    "Aquarius": {
+        "element": "Air",
+        "modality": "Fixed",
+        "personality": "Innovative, Independent, Humanitarian, Intellectual, Eccentric, Detached, Original, Open-minded."
+    },
+    "Pisces": {
+        "element": "Water",
+        "modality": "Mutable",
+        "personality": "Compassionate, Imaginative, Empathetic, Artistic, Intuitive, Sensitive, Escapist, Gentle."
+    }
+}

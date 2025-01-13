@@ -29,7 +29,7 @@ async def translate_file(input_file, output_file):
         print(f"An error occurred: {e}")
 
 # Run the async function
-input_file = './Horoskopa MI/horoscope.txt'   # Replace with your input file path
-output_file = './Horoskopa MI/lv_horoscope.txt' # Replace with your desired output file path
+input_file = 'en_file.txt'   # Replace with your input file path
+output_file = 'lv_file.txt' # Replace with your desired output file path
 asyncio.run(translate_file(input_file, output_file))
 
