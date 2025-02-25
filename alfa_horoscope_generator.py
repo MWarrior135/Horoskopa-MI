@@ -83,12 +83,6 @@ def calculate_house_positions(date, planet_positions):
 
 # Function to generate horoscope prompt based on date and planetary data
 def generate_prompt(date, house_positions, zodiac_sign):
-    
-    houses = [
-        "1st House", "2nd House", "3rd House", "4th House", "5th House", "6th House",
-        "7th House", "8th House", "9th House", "10th House", "11th House", "12th House"
-    ]
-    #print("in generate horoscope")
 
     #print("test")
     prompt = f"""
@@ -172,7 +166,6 @@ for zodiac in horoscope:
     file.write(response_from_openai(zodiac, prompt))
     file.write("\n\n")
 file.close()
-
 
 asyncio.run(translate_file(en_file, lv_file))
 
